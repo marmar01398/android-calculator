@@ -21,6 +21,7 @@
         android:textSize="40dp"
 
         />
+
     <Button
         android:text="AC"
         android:layout_width="0dp"
@@ -116,12 +117,18 @@
         android:layout_columnWeight="1"
         android:backgroundTint="#2f2a30"/>
     <Button
-        android:text="="
+        android:text=""
         android:layout_width="0dp"
-        android:layout_height="0dp"
+        android:layout_height="100dp"
         android:layout_columnWeight="1"
-        android:layout_rowSpan="2"
-        android:backgroundTint="#f54b0e"/>
+        android:backgroundTint="#2f2a30"/>
+    <Button
+        android:text="!"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:layout_columnWeight="1"
+        android:backgroundTint="#2f2a30"/>
+
     <Button
         android:text="()"
         android:layout_width="0dp"
